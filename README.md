@@ -1,0 +1,1 @@
+**Use of Serverless PaaS  (Azure functions) to make a call to a third party API.**
